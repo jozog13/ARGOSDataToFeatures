@@ -10,3 +10,6 @@
 ## Author: Jess Ozog - jo158@duke.edu (for ENV859)
 ##---------------------------------------------------------------------
 
+#%% Import packages
+
+import arcpy, sys, os
